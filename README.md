@@ -17,3 +17,8 @@ Usage
 * Analyze the project with SonarQube using the SonarQube Scanner:
 
         sonar-scanner
+
+		
+* On Windows 
+
+        build-wrapper --out-dir bw-outputs Makefile
